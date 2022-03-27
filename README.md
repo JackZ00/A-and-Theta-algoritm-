@@ -3,7 +3,7 @@
 1. First run *mapCreating.py*
 	* Create a 50x50 map and have 10% of the squares blocked. The newly generated map file will be written to mapfile/mapcreate.txt
 
-2. Then run *draw2.py
+2. Copy the algorithm into #test in the draw3.py then run
 	* The program will pop up two windows (the second small window may be under the first one, please move the large window to see the small window).
 
 In the first large window:
